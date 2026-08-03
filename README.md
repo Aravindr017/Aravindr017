@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="./assets/github-bio.png" alt="Banner" width="100%">
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,25&height=200&section=header&text=Aravind%20R&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=BTech%20Computer%20Science%20and%20Engineering%20Graduate&descAlignY=56&descSize=19" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Full+Stack+Developer;IEEE+Volunteer;Outstanding+Student+Volunteer+2025+-+IEEE+PES+Kerala+Chapter" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=%3E+Initializing+Portfolio...;%3E+Welcome!;%3E+AI+%7C+Machine+Learning+Enthusiast;%3E+Full+Stack+Developer;%3E+Outstanding+Student+Volunteer+2025+-+IEEE+PES+Kerala+Chapter;%3E+IEEE+Volunteer" />
+
 </div>
 
 ## 🚀 About Me
@@ -40,18 +39,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aravindr017&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindr017&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aravindr017&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindr017&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="42%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindr017&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindr017&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
 </div>
 
 ## 🐍 Contribution Snake
 
-![github-snake](github-snake.svg)
-![github-snake-dark](github-snake-dark.svg#gh-dark-mode-only)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aravindr017/Aravindr017/main/github-snake.svg" alt="Snake Animation" />
+  <br/>
+  <sub>The snake eats your contributions! 🐍</sub>
+</div>
 
 ---
 
