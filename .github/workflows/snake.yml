@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
@@ -8,12 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4  # Updated to v4 (Node.js 20+ compatible)
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Generate Snake
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: Aravindr017
           outputs: |
@@ -22,10 +30,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push Changes
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-snake.svg github-snake-dark.svg
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Aravindr017/Aravindr017.git
+
+      - name: Commit and Push Changes
+        run: |
+          git add github-snake.svg github-snake-dark.svg || echo "No files to add"
+          git status
           git diff --staged --quiet || git commit -m "Update snake animation [skip ci]"
-          git push
+          git push origin HEAD:main
