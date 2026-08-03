@@ -81,7 +81,7 @@ class AravindR:
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [Speech Command Classifier](https://aravindr.netlify.app)
+### 🎙️ Speech Command Classifier
 Offline edge-deployed voice classifier — **17 MB**, **95% accuracy**, **91.7% OOS rejection**, **<50ms latency**. Prototype-based architecture supports new commands without retraining.
 
 `Python` `ONNX` `Sentence Transformers` `Streamlit`
@@ -124,15 +124,7 @@ Three-tier blockchain framework for carbon credit trading — **🥉 3rd Prize**
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aravindr017&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=B78CFF&text_color=C9D6E3" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindr017&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D6E3" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindr017&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=B78CFF&currStreakLabel=00F5FF" />
-
-</div>
+<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Aravindr017&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=B78CFF&text_color=C9D6E3" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aravindr017&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D6E3" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindr017&theme=radical&hide_border=true&background=0D1117&ring=00F5FF&fire=B78CFF&currStreakLabel=00F5FF" /> </div>
 
 <br>
 
