@@ -18,7 +18,7 @@
   <picture>
     <img width="100%" alt="A small builder robot constructing a wall of glowing neural-network bricks" src="https://raw.githubusercontent.com/Aravindr017/Aravindr017/main/builder-animation.svg">
   </picture>
-  <sub><i>constructing intelligence</i></sub>
+  <sub><I>Building intelligent Systems...</i></sub>
 </div>
 
 <br>
